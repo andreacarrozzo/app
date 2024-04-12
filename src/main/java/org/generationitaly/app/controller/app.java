@@ -12,5 +12,6 @@ public class app {
 
 	public static void method1() {
 		System.out.println("Abc1");
+		System.out.println("Prova1");
 	}
 }
